@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Aprendiendo githubpages con jekyll
 ---
 
-I'm glad you are here. I plan to talk about ...
+Lunes de aprendizaje
