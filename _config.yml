@@ -6,7 +6,7 @@ date: 2021-10-22
 title: tutorial
 author: angserantes
 email: your-email@domain.com
-description: > tutorial jekyll
+description:  tutorial jekyll
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
